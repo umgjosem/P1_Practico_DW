@@ -23,7 +23,7 @@ module.exports = (sequelize, Sequelize) => {
             type: Sequelize.STRING
         },
         anio_lanzamiento: {
-            type: Sequelize.DATE
+            type: Sequelize.STRING
         }
     });
     return Pelicula;
