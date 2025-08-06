@@ -2,7 +2,7 @@ module.exports = {
   HOST: "ep-little-mouse-afpodxtp-pooler.c-2.us-west-2.aws.neon.tech",
   USER: "neondb_owner",
   PASSWORD: "npg_4HVoAM2gpWIJ",
-  DB: "neondb",
+  DB: "Netflix",
   dialect: "postgres",
   dialectOptions: {
     ssl: {
